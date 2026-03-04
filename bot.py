@@ -14,7 +14,7 @@ import time
 import sqlite3
 import random
 # Load environment variables
-DISCORD_TOKEN = os.getenv('DISCORD_TOKEN', 'MTQ3NjU3NTE3OTQ4MzI1MDczMA.GjSioL.Hx_1RaOAOXyCuC_Xd-j9sEoUw5kh6MSdVnltsI')
+DISCORD_TOKEN = os.getenv('DISCORD_TOKEN', 'MTQ3NjU3NTE3OTQ4MzI1MDczMA.GTRGKl.I7wiDQlhvAFt1DuEqnx8FM9KbFUgD2xU-OpF_w')
 BOT_NAME = os.getenv('Soler', 'Zycron')
 PREFIX = os.getenv('PREFIX', '.')
 YOUR_SERVER_IP = os.getenv('YOUR_SERVER_IP', '10.53.251.82')
